@@ -8,6 +8,6 @@ function confirmar() {
     var msg = document.getElementById('msg') //msg da tela
     var img = document.getElementById('imagem') //imagem da calculadora
     msg.innerHTML = `A medida da Hipotenusa (c²) é: ${hipotenusa.toFixed(2)}`
-    img.src = "../Calculadora/imagens/pitagoras.jpg"
+    img.src = "imagens/pitagoras.jpg"
     
 }
