@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title> Desafio - Cromai </title>
+    <link rel="stylesheet" href="../Calculadora/style.css"> <!-- Link externo -->
+</head>
+
+<body>
+    <header>
+        <p id="cabecalho"> Desafio
+            <img src="../Calculadora/imagens/iconetriangulo.png" width="40"  id="logotriangulo"> <!-- Logo do cabeçalho -->
+        </p>
+    </header>
+
+    <div class="calculadora">
+        <h2>Calculadora</h2> <!-- Subtitulo1 -->
+        Cateto Adjascente (a²):<br>
+            <input type="number" id="op"  value="14"> </p> <!-- ad: adjascente -->
+        Cateto Oposto (b²): <br>
+            <input type="number" id="ad"  value="9"> </p> <!-- op: oposto -->
+        
+            <!-- Botão Confirmar-->
+            <input type="button" value="Calcular" onclick="confirmar()">
+        
+
+        <div id="foto">
+            <img id="imagem" src="../Calculadora/imagens/triangulo.png"
+             title="triangulo teorema de pitagoras" 
+             alt="triangulo teorema de pitagoras"
+            > <!-- Foto dos triangulos principal -->
+        
+        </div>
+        <br>
+        <div id="msg">  
+             Digite as informações e obtenha o resultado... <!-- aviso embaixo que vai mudar para o resultado -->
+        </div>
+
+    </div>
+
+    <div class="principal">
+        <section>
+
+            <h2> Sobre o Desafio </h2>
+            
+            <p> Olá, caro viajante do tempo!</p>
+            <p> 
+                Você retornou ao passado para aproximadamente 535 A.C. e encontrou com o grande
+                filósofo matemático Pitágoras que naquela época estava pensando em largar tudo e desistir
+                de seu trabalho. Com isso, o seu retorno ao passado trouxe um enorme desafio, que irá
+                revolucionar o mundo, mas para isso você precisa provar ao grande filósofo que tudo aquilo
+                que ele tinha construído até o momento era algo promissor e por isso ele deveria continuar.
+            </p>
+            <p> 
+                A sua missão nessa grande jornada é mostrar para ele que nada foi em vão, e para isso você
+                precisará desenvolver uma calculadora que será capaz de calcular a relação entre os lados de
+                um triângulo retângulo (mais conhecido popularmente como teorema de pitágoras).</p>
+            </p>
+
+
+        </section>
+    </div>
+    <footer>
+        <p>&copy; Elias Castro</p> <!-- Direitos do Site -->
+    </footer>
+
+    <script src="script.js"> 
+
+    </script> <!-- Link script externo-->
+</body>
+
+</html>
