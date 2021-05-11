@@ -1,6 +1,7 @@
 # Processo Seletivo - Estágio Desenvolvimento de Software
  
- Olá, caro viajante do tempo!
+Olá, caro viajante do tempo!
+
 Você retornou ao passado para aproximadamente 535 A.C. e encontrou com o grande
 filósofo matemático Pitágoras que naquela época estava pensando em largar tudo e desistir
 de seu trabalho. Com isso, o seu retorno ao passado trouxe um enorme desafio, que irá
@@ -11,7 +12,7 @@ precisará desenvolver uma calculadora que será capaz de calcular a relação e
 um triângulo retângulo (mais conhecido popularmente como teorema de pitágoras).
 
 
----------------------------------------------------------------------------------------------------
+![layout antigo]()
 
 Para este processo eu realizei a criação do site utilizando as ferramentas de HTML5, CSS3 e JavaScript. 
 
