@@ -3,52 +3,68 @@
 
 <head>
     <meta charset="UTF-8">
-    <title> Desafio - Cromai </title>
-    <link rel="stylesheet" href="style.css"> <!-- Link externo -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bootstrap</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-wEmeIV1mKuiNpC+IOBjI7aAzPcEZeedi5yW5f2yOq55WWLwNGmvvx4Um1vskeMj0" crossorigin="anonymous">
+
 </head>
 
-<body>
-    <header>
+<body class="p-3 mb-2 bg-dark text-white">
+
+    <div class="container"> 
         
-    </header>
+        <div class="btn-group">
+            <a href="index.html" class="btn btn-warning" aria-current="page">Calculadora </a>
+            <a href="teoria.html" class="btn btn-warning"> Teoria </a>
+            
+        </div>
 
+        <hr>
 
-    <div class="principal">
-        <section>
-            <h2>Calculadora <!-- Subtitulo1 -->
-            <img src="imagens/iconetriangulo.png" width="40" id="logotriangulo"> <!-- Logo do cabeçalho --> </h2>
-            Cateto Adjascente (a²):<br>
-            <input type="number" id="op" value="14"> </p> <!-- ad: adjascente -->
-            Cateto Oposto (b²): <br>
-            <input type="number" id="ad" value="9"> </p> <!-- op: oposto -->
+        <br>
+        <div class="row">
 
-            <!-- Botão Confirmar-->
-            <input type="button" value="Calcular" onclick="confirmar()">
+            <div class="col">
+                <form>
+                    <h1>
+                        Calculadora de Pitágoras
+                        <img src="imagens/iconetriangulo.png" width="40" id="logotriangulo">
+                    </h1>
 
+                    <div class="mb-3">
+                        <h4>Cateto Adjascente (a²): </h4>
+                        <input type="number" class="form-control" id="ad" value="14">
+                    </div>
 
-            <div id="foto">
-                <img id="imagem" src="imagens/triangulo.png" title="triangulo teorema de pitagoras"
-                    alt="triangulo teorema de pitagoras"> <!-- Foto dos triangulos principal -->
-
+                    <div class="mb-3" id="cop">
+                        <h4> Cateto Oposto (b²): </h4>
+                        <input type="number" class="form-control" id="op" value="9">
+                    </div>
+                    <button type="button" class="btn btn-warning" onclick="confirmar()">Calcular</button>
+                    <br><br>
+                    <div>
+                        <h3 id="msg">Resultado: </h3>
+                    </div>
+                    <br>
+                    <div id="img">
+                        <p>
+                            <img src="imagens/pitagoras.jpg" class="rounded mx-auto d-block" alt="Pitágoras"
+                                title="Pitágoras">
+                        </p>
+                    </div>
+                </form>
             </div>
-            <br>
-            <div id="msg">
-                Digite as informações e obtenha o resultado... 
-                <!-- aviso embaixo que vai mudar para o resultado -->
-            </div>
-
+        </div>
     </div>
 
-
-    </section>
-    </div>
+    <script src="script.js">    </script>
+    <hr>
+    <br>
     <footer>
-        <p>&copy; Elias Castro</p> <!-- Direitos do Site -->
+        <p>&copy; Elias Castro 2021 </p> <!-- Direitos do Site -->
     </footer>
 
-    <script src="script.js">
-
-    </script> <!-- Link script externo-->
 </body>
-
 </html>
