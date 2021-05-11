@@ -1,6 +1,8 @@
 # Processo Seletivo - Estágio Desenvolvimento de Software
  
-Olá, caro viajante do tempo!
+## O Desafio
+
+"Olá, caro viajante do tempo!
 
 Você retornou ao passado para aproximadamente 535 A.C. e encontrou com o grande
 filósofo matemático Pitágoras que naquela época estava pensando em largar tudo e desistir
@@ -9,8 +11,9 @@ revolucionar o mundo, mas para isso você precisa provar ao grande filósofo que
 que ele tinha construído até o momento era algo promissor e por isso ele deveria continuar.
 A sua missão nessa grande jornada é mostrar para ele que nada foi em vão, e para isso você
 precisará desenvolver uma calculadora que será capaz de calcular a relação entre os lados de
-um triângulo retângulo (mais conhecido popularmente como teorema de pitágoras).
+um triângulo retângulo (mais conhecido popularmente como teorema de pitágoras)."
 
+## Processo de Desenvolvimento
 
 Para este projeto eu realizei a criação do site utilizando inicialmente as ferramentas de HTML5, CSS3 e JavaScript. 
 
