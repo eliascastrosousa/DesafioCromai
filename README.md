@@ -15,7 +15,7 @@ um triângulo retângulo (mais conhecido popularmente como teorema de pitágoras
 
 ## Processo de Desenvolvimento
 
-Para este projeto eu realizei a criação do site utilizando inicialmente as ferramentas de HTML5, CSS3 e JavaScript. 
+Para este projeto, realizei a criação do site utilizando inicialmente as ferramentas de HTML5, CSS3 e JavaScript. 
 
 ![layout antigo](imagens/layoutantigo.png)
 
