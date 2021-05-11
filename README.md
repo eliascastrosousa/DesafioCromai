@@ -22,9 +22,9 @@ Durante o primeiro modelo do site, senti a necessidade do design responsivo e en
 
 O Projeto realizado com:
 - HTML5 ![html5](imagens/iconehtml5.png)
-- CSS3 ![html5](imagens/iconecss3.png)
-- JavaScript ![html5](imagens/iconejs.png)
-- Bootstrap5 ![html5](imagens/bootstrap.png)
+- CSS3 ![css3](imagens/iconecss3.png)
+- JavaScript ![JS](imagens/iconejs.png)
+- Bootstrap5 ![Bootstrap](imagens/bootstrap.png)
 
 Para ver na integra o resultado, [Clique aqui!](https://eliascastrosousa.github.io/DesafioCromai/)
 
