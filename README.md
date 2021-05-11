@@ -12,7 +12,7 @@ precisará desenvolver uma calculadora que será capaz de calcular a relação e
 um triângulo retângulo (mais conhecido popularmente como teorema de pitágoras).
 
 
-![layout antigo]()
+![layout antigo](/imagens/layout antigo.png)
 
 Para este processo eu realizei a criação do site utilizando as ferramentas de HTML5, CSS3 e JavaScript. 
 
