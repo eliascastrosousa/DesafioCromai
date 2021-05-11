@@ -12,11 +12,14 @@ precisará desenvolver uma calculadora que será capaz de calcular a relação e
 um triângulo retângulo (mais conhecido popularmente como teorema de pitágoras).
 
 
-![layout antigo](/imagens/layout antigo.png)
-
 Para este processo eu realizei a criação do site utilizando as ferramentas de HTML5, CSS3 e JavaScript. 
 
-inserir o primeiro layout do desafio
+![layout antigo](imagens/layoutantigo.png)
 
-durante o processo senti a necessidade do design responsivo e fui aprender a utilizar o Bootstrap e as boas praticas e melhorar a interface do meu programa. 
+Durante o primeiro modelo do site, senti a necessidade do design responsivo e então procurei aprender as boas praticas com **Bootstrap**, assim melhorando a interface e visualização do meu programa.
+
+![layout antigo](imagens/layoutnovo.png)
+
+Projeto Finalizado. Para ver na integra, [Clique aqui!](https://eliascastrosousa.github.io/DesafioCromai/)
+
 
