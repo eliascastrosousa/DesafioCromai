@@ -12,7 +12,7 @@ precisará desenvolver uma calculadora que será capaz de calcular a relação e
 um triângulo retângulo (mais conhecido popularmente como teorema de pitágoras).
 
 
-Para este processo eu realizei a criação do site utilizando as ferramentas de HTML5, CSS3 e JavaScript. 
+Para este projeto eu realizei a criação do site utilizando inicialmente as ferramentas de HTML5, CSS3 e JavaScript. 
 
 ![layout antigo](imagens/layoutantigo.png)
 
@@ -20,6 +20,11 @@ Durante o primeiro modelo do site, senti a necessidade do design responsivo e en
 
 ![layout antigo](imagens/layoutnovo.png)
 
-Projeto Finalizado. Para ver na integra, [Clique aqui!](https://eliascastrosousa.github.io/DesafioCromai/)
+O Projeto realizado com:
+- HTML5 ![html5](imagens/iconehtml5.png)
+- CSS3 ![css3](imagens/iconecss3.png)
+- JavaScript ![JS](imagens/iconejs.png)
+- Bootstrap5 ![Bootstrap](imagens/bootstrap.png)
 
+Para ver na integra o resultado, [Clique aqui!](https://eliascastrosousa.github.io/DesafioCromai/)
 
