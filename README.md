@@ -31,5 +31,5 @@ O Projeto foi realizado com:
 
 Para ver o resultado na integra, [Clique aqui!](https://eliascastrosousa.github.io/DesafioCromai/)
 
-Colabore com este projeto, clique em Code para clonar este repositorio ou [Clique aqui](https://github.com/eliascastrosousa/DesafioCromai.git) e baixe os arquivos deste repositório. 
+Colabore com este projeto, clique em Code para clonar este repositorio ou [Clique aqui](https://github.com/eliascastrosousa/DesafioCromai/archive/refs/heads/main.zip) e baixe os arquivos deste repositório em formato ZIP. 
 
